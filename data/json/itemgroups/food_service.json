@@ -417,7 +417,7 @@
       { "item": "box_small", "prob": 30 },
       { "item": "honey_bottled", "prob": 10 },
       { "item": "honey_glassed", "prob": 10 },
-      { "item": "milk", "prob": 10 },
+      { "item": "milk_UHT", "prob": 10 },
       { "item": "milk_powder", "prob": 65 },
       { "item": "salt", "prob": 15 },
       { "item": "sugar", "prob": 70 },
@@ -810,7 +810,7 @@
     "subtype": "distribution",
     "entries": [
       { "item": "egg_bird_unfert", "prob": 65, "charges": [ 6, 12 ] },
-      { "item": "milk", "prob": 80 },
+      { "item": "milk_UHT", "prob": 80 },
       { "item": "milk_raw", "prob": 5 },
       { "item": "milk_raw", "prob": 5 },
       { "item": "butter", "prob": 35, "charges": 8, "container-item": "wrapper" },
